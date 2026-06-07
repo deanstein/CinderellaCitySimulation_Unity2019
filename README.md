@@ -1,37 +1,43 @@
+> This is the legacy **Unity 2019** version of the Cinderella City Simulation.
+> <br>Active development has moved to the Unity 6 version:
+> **[CinderellaCitySimulation_Unity6](https://github.com/deanstein/CinderellaCitySimulation_Unity6)**
+
+---
+
 ![Main Preview](README_intro.jpg)
 
-# The Cinderella City Project
-[The Cinderella City Project](https://www.cinderellacityproject.com/) is the digital reconstruction of a mid-century shopping mall for an interactive history exhibit. 
+# A Retail History Simulation
+The [Cinderella City Simulation](https://www.cinderellacityproject.com/simulation) is a digital reconstruction of [Cinderella City Mall](https://www.cinderellacityproject.com/history) as an interactive virtual history exhibit.
 
-The project revolves around [Cinderella City Mall](https://www.cinderellacityproject.com/history), a quirky 1.5-million square foot shopping center that also featured offices, schools, and event spaces - decades before mixed-use shopping center design was commonplace.
+The real Cinderella City existed in Englewood, Colorado from 1968 to 1997. 
 
-Built in 1968, Cinderella City experienced two rapid boom and bust cycles, resulting in a 1980s renovation and its closure and demolition in 1998. 
+The project aims to accurately rebuild the mall in two distinct time periods, reconstructed through an architect's lens using real blueprints, directories, and photos.
 
-The Cinderella City Project brings Cinderella City's two heydays to life and enables visitors to time-travel between them for comparision. Each time period offers its own architecture, shoppers, and muzak as well as real photographs as an optional layer in 3D space. [Learn more](https://www.cinderellacityproject.com).
+Learn more about the [Cinderella City Project](https://www.cinderellacityproject.com).
 
 ## Quick Links
 
-- [Official website](https://www.cinderellacityproject.com)
-- [Donate to the project](https://www.ko-fi.com/cinderellacityproject)
-- [Follow along on Instagram](https://instagram.com/cinderellacityproject) or [Facebook](https://www.facebook.com/cinderellacityproject)
+- [Project website](https://www.cinderellacityproject.com)
+- [Latest updates](https://www.cinderellacityproject.com/#latest-updates)
+- [Press coverage](https://www.cinderellacityproject.com/#press-coverage)
+- [Read about the project and donate on Ko-Fi](https://www.ko-fi.com/cinderellacityproject)
+- [See historic photos and the latest simulation progress on Instagram](https://instagram.com/cinderellacityproject) or [Facebook](https://www.facebook.com/cinderellacityproject)
 - [See videos on YouTube](https://www.youtube.com/c/TheCinderellaCityProject)
 - [Try the Cinderella City Simulation (work in progress)](https://github.com/deanstein/CinderellaCityProject#try-the-cinderella-city-simulation-work-in-progress)
 - [Sign the petition to save the last remaining Cinderella City building from demolition](https://www.change.org/p/save-the-englewood-civic-center-from-demolition-by-adapting-it-into-the-new-heart-of-the-neighborhood)
 
 
-# Cinderella City Simulation
+# Overview
 
-The Cinderella City Simulation is the heart of the Cinderella City Project. 
+Modeled in [Autodesk FormIt](https://formit.autodesk.com/), and brought to life in [Unity](https://unity.com/), the simulation illustrates distinct time periods of Cinderella City's three-decade life, including the colorful 1968-1978 era, and the staid 1987-1997 era. 
 
-Modeled in [Autodesk FormIt](https://formit.autodesk.com/) and brought to life in [Unity](https://unity.com/), the simulation illustrates two distinct time periods of Cinderella City's colorful history: The first 10 years (1968-1978) and the last 10 years (1987-1997). Eventually, the simulation will also offer an "Alternate Future" era to show how the shopping center could have been adaptively reused in 1998 in lieu of demolition.
+Eventually, the simulation will also offer an "Alternate Future" interactive exhibit showing how the shopping center could have been adaptively reused in 1998 in lieu of demolition.
 
-While exploring the mall, the player can time travel to other time periods while maintaining the current position and camera to perfectly juxtapose two eras of retail and design.
+While experiencing the mall in each era, the player can "time travel" to other time periods while maintaining the current position in space to see how the world of retail and design changed over 30 years.
 
-The 3D model underpinning the simulation is an accurate, forensic reconstruction of the mall's entire design - from its exterior architecture to its interior spaces, down to its storefronts and signage. Layered on top of the model is period-correct music, historic photographs, animated shoppers, and eventually, recorded verbal memories.
+The simulation includes an accurate representation of the architectural character and signage of the shopping mall and other immersive elements like period-correct music, historical photographs, animated shoppers, and eventually, recorded verbal memories.
 
-The simulation was prominently featured in a [Cinderella City exhibit](https://www.cinderellacityproject.com) in the [Historic Englewood Museum](https://www.historicenglewood.com/) from 2024 to 2025. 
-
-When complete, the Cinderella City Simulation will support a variety of platforms including virtual reality headsets.
+When released, the Cinderella City Simulation will support a variety of platforms including virtual reality headsets. The simulation may also be made into a permanent or semi-permanent Englewood, Colorado exhibit in the future.
 
 
 # Try the Cinderella City Simulation (work in progress)
