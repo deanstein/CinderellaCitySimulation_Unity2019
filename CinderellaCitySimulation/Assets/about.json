@@ -1,5 +1,22 @@
 {
   "VersionHistory": {
+    "0.8.3.202607": {
+      "Overview": "v0.8.3 adds details, photos, and textures to the 1968-1978 era",
+      "Environment Updates": [
+        "Added the City Campus storefront in the 1968-1978 era based on a new photo",
+        "Added new historic photos including a Shamrock Mall escalator, City Campus, and an iconic parking garage ramp in the 1968-1978",
+        "Added wayfinding signage above the 1968-1978 Shamrock Mall escalator",
+        "Added bump maps to increase depth on textures including the 1968-1978 Blue Mall terracotta tile and parking garage materials",
+        "Enhanced brick textures used on the exterior of most mall buildings, including some interior walls and storefronts in both eras",
+        "Enhanced ashtray and gravel textures in the 1968-1978 era based on fan-submitted memories",
+        "Fixed missing guardrail geometry on the 1968-1978 northwest parking garage ramp",
+        "Fixed z-fighting in various areas of both eras"
+      ],
+      "UI Updates": [
+      ],
+      "Code Updates": [
+      ]
+    },
     "0.8.2.202509": {
       "Overview": "v0.8.2 adds time travel peeking at select Guided Tour photos, improves Guided Tour fluidity and stability, adds new historic photos, adds new debug utilities, updates StartupConfig flags, and eliminates the legacy Textures folder creation on asset import to reduce friction for project integrators.",
       "Environment Updates": [
