@@ -6,11 +6,12 @@
         "Added the City Campus storefront in the 1968-1978 era based on a new photo",
         "Added new historic photos including a Shamrock Mall escalator, City Campus, and an iconic parking garage ramp in the 1968-1978",
         "Added wayfinding signage above the 1968-1978 Shamrock Mall escalator",
-        "Added bump maps to increase depth on textures including the 1968-1978 Blue Mall terracotta tile and parking garage materials",
+        "Added bump maps to increase depth on textures including the 1968-1978 Blue Mall terracotta tile and concrete textures both inside and out",
         "Enhanced brick textures used on the exterior of most mall buildings, including some interior walls and storefronts in both eras",
         "Enhanced ashtray and gravel textures in the 1968-1978 era based on fan-submitted memories",
         "Fixed missing guardrail geometry on the 1968-1978 northwest parking garage ramp",
-        "Fixed z-fighting in various areas of both eras"
+        "Fixed various z-fighting issues in both eras",
+        "Fixed signage misalignments for The Denver in the 1968-1978 era"
       ],
       "UI Updates": [
       ],
