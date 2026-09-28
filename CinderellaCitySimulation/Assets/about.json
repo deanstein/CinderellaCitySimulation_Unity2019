@@ -1,9 +1,10 @@
 {
   "VersionHistory": {
-    "0.8.3.202607": {
-      "Overview": "v0.8.3 adds details, photos, and textures to the 1968-1978 era",
+    "0.8.3.202610": {
+      "Overview": "v0.8.3 adds details, photos, and improved textures to the 1968-1978 era",
       "Environment Updates": [
-        "Added the City Campus storefront in the 1968-1978 era based on a new photo",
+        "Added missing mezzanine office storefronts in the west corner of the 1968-1978 Blue Mall",
+        "Added the City Campus storefront in the 1968-1978 Rose Mall based on a new photo",
         "Added new historic photos including a Shamrock Mall escalator, City Campus, and an iconic parking garage ramp in the 1968-1978",
         "Added wayfinding signage above the 1968-1978 Shamrock Mall escalator",
         "Added bump maps to increase depth on textures including the 1968-1978 Blue Mall terracotta tile and concrete textures both inside and out",
